@@ -1,15 +1,14 @@
 # Email Client Application
 
-This email client application mimics the functionalities of Outlook. It allows users to view their emails, mark them as favorites, and filter them based on different criteria such as read, unread, and favorites.
+This email client application mimics the functionalities of Outlook. It allows users to view their emails, mark them as favourites, and filter them based on different criteria such as read, unread, and favourites.
 
 ## How to Run the App Locally
 
 To run the app locally, follow these steps:
 
 ```bash
-git clone <repository-url>
-cd email-client
-yarn
+git clone [<repository-url>](https://github.com/pintu544/Email-Client-Application)
+cd Email-Client-Application
 yarn dev
 ```
 
@@ -26,7 +25,7 @@ Users can filter emails based on the following criteria:
 - **All Emails:** Displays all emails.
 - **Read Emails:** Displays only read emails.
 - **Unread Emails:** Displays only unread emails.
-- **Favorite Emails:** Displays only emails marked as favorites.
+- **Favorite Emails:** Displays only emails marked as favourites.
 
 ### Email Details Page
 
@@ -34,7 +33,7 @@ When a user clicks on a particular email, the app splits the screen into a maste
 
 ### Mark as Favorite
 
-Users can mark any email as a favorite by clicking on the email item and then clicking the "Mark as Favorite" button in the email body section.
+Users can mark any email as a favourite by clicking on the email item and then clicking the "Mark as Favorite" button in the email body section.
 
 ### Read/Unread Styles
 
