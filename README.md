@@ -7,9 +7,8 @@ This email client application mimics the functionalities of Outlook. It allows u
 To run the app locally, follow these steps:
 
 ```bash
-git clone <repository-url>
-cd email-client
-yarn
+git clone <[repository-url](https://github.com/pintu544/Email-Client-Application)>
+cd Email-Client-Application
 yarn dev
 ```
 
