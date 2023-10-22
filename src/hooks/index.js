@@ -1,1 +1,0 @@
-export { useFetchSingleMail } from './useFetchSingleMail';
